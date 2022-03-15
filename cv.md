@@ -11,3 +11,6 @@ Student of **Minsk State Lunguistic University**. My dream is to become a progra
 
 ## Experience:
 Just entered [rsschool](https://rs.school/) courses
+
+## Language level:
+Spoken and written English : *B1*
