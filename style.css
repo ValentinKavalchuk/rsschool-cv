@@ -1,0 +1,41 @@
+body {
+    text-align: left;
+    background: #fae4e4da;
+    max-width: 800px;
+    padding-left: 280px;
+  }
+  
+  .avatar {
+      width: 260px;
+      height: auto; 
+      position:relative;
+      left: 200px;
+  }
+  
+  .logo {
+      width: 260px;
+      height: auto;
+  }
+  
+  header {
+      display: flex;
+      justify-content: left;
+      background: aquamarine;
+  }
+  
+  article {
+      text-align: left;
+      background: rgb(169, 174, 184);
+  }
+  
+  main {
+      background: burlywood;
+  }
+  
+  .knowledges {
+      background: cadetblue;
+  }
+  
+  code {
+      background: yellow;
+  }
